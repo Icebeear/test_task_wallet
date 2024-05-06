@@ -2,12 +2,18 @@
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Wallet app - simple personal financial wallet
+Wallet app - простое консольное приложение, предоставляющее функционал личного финансового кошелька
 
-### Stack
+### Инструменты
 
 - Python
 
+### Функционал
+
+1) Просмотр баланса, доходов, расходов 
+2) Добавление новых записей о доходах или расходах 
+3) Фильтрация записей по категории, дате, сумме операции 
+4) Редактирование существующих записей
 
 ## Run locally
     python main.py
